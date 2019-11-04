@@ -127,6 +127,7 @@ function iterative_alignment(opts)
         refine.CCMapFileName = ccmapPre;
         refine.MotiveList = refMotlFile;
         refine.ShiftOutputFile = shiftFile;
+        refine.MultiPeakDetection = false;
         artia.cfg.write(refine, refCfgFile);
         
         %avg
