@@ -5,3 +5,6 @@
 *.em
 *.mrc
 *.bin
+
+# CLion
+.idea
