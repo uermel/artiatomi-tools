@@ -1,0 +1,7 @@
+# Matlab
+*.m~
+
+# Binaries
+*.em
+*.mrc
+*.bin
